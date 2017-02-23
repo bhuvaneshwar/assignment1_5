@@ -1,0 +1,30 @@
+1.Explain hadoop in layman's term
+
+	*Hadoop is a set of open source programs and procedures.
+
+	*Hadoop is Java-based programming framework that supports the processing 
+	 and storage of very large data in a distributed environment
+
+	*With help of Hadoop we can run applications on systems with thousands of commodity 
+	 hardware nodes
+
+
+2.2.Explain the components of Hadoop framework
+
+	*Hadoop Distributed File-System - allows data to be stored in an easily accessible 
+	 format over a large number of linked storage devices,
+
+	*MapReduce - reading data from the database, putting it into a format suitable for 
+	 analysis and performing operations over the data.
+	
+	*yarn - it manages resources of the systems storing the data and running the analysis.
+
+3.Explain the reasons to learn Big data technologies
+
+	*Performance - The performance of the entire process is high as it is in distributed
+	 environment which is handled through parallel processing.
+
+	*Ability to handle huge data - Any volume of data can be stored in HDFS and can be 
+	accesed very easily.
+
+	*Cost Efficiency - Hadoop reduces the cost and performance by using the commodity systems . 
